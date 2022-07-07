@@ -1,5 +1,3 @@
-# SRGAN_7d7
-Research on super-resolution reconstruction of underwater camera images based on generative adversarial networks
 ## LZU深度学习课程设计2022-Keras-SRGAN
 
 ### 利用Keras中的生成对抗网络实现的水下摄像机单幅图像超分辨重建
@@ -10,17 +8,17 @@ Research on super-resolution reconstruction of underwater camera images based on
 
 ## 网络架构:
 
-![gan](./Architecture_images/gan1.png)
+![gan](https://s2.loli.net/2022/07/07/QYvd8UcSaPmjgkL.png)
 
 ## 生成器和鉴别器网络:
 
 生成器网络结构：
 
-![image-20220707201913690](./Architecture_images/generator.png)
+![image-20220707201913690](https://s2.loli.net/2022/07/07/x73vieYdwrI9phX.png)
 
 鉴别器网络结构：
 
-![image-20220707201928932](./Architecture_images/discriminator.png)
+![image-20220707201928932](https://s2.loli.net/2022/07/07/4Sdo6sTUaqYrwpQ.png)
 
 ​    
 
@@ -55,19 +53,19 @@ Research on super-resolution reconstruction of underwater camera images based on
 
 下面是具体的SRGAN重建图像实例：
 
-![image-20220707202932982](./Architecture_images/sample1.png)
+![image-20220707202932982](https://s2.loli.net/2022/07/07/TVnS9NaJXWMkhcR.png)
 
-![image-20220707203017820](./Architecture_images/sample2.png)
+![image-20220707203017820](https://s2.loli.net/2022/07/07/YKosvdlpaZFyHeg.png)
 
-![image-20220707203036060](./Architecture_images/sample3.png)
+![image-20220707203036060](https://s2.loli.net/2022/07/07/LEJa462qmPzWchI.png)
 
-![image-20220707203052432](./Architecture_images/sample4.png)
+![image-20220707203052432](https://s2.loli.net/2022/07/07/g5ny1Qh4KGs9Wj7.png)
 
-![image-20220707203105299](./Architecture_images/sample5.png)
+![image-20220707203105299](https://s2.loli.net/2022/07/07/riPYx7y1RSmbwfn.png)
 
-![image-20220707203117029](./Architecture_images/sample6.png)
+![image-20220707203117029](https://s2.loli.net/2022/07/07/unyOG72hFPYIKVi.png)
 
-![image-20220707203125962](./Architecture_images/sample7.png)
+![image-20220707203125962](https://s2.loli.net/2022/07/07/toshvuxyl3VPfRW.png)
 
 ## 实验过程中经验总结：
 
@@ -86,3 +84,8 @@ Research on super-resolution reconstruction of underwater camera images based on
     [6].	王鹏. 基于深度学习的水下图像增强算法研究[D].南京信息工程大学,2021.DOI:10.27248/d.cnki.gnjqc.2021.000116.
     [7].	李旭. 基于生成对抗网络的超分辨率图片重构研究[D].北京邮电大学,2020.DOI:10.26969/d.cnki.gbydu.2020.000864.	
     [8].	邢晶晶. 基于生成对抗网络的水下图像增强方法研究[D].上海海洋大学,2021.DOI:10.27314/d.cnki.gsscu.2021.000013.
+
+
+
+
+​               
